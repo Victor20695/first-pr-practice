@@ -13,4 +13,4 @@ This repo exists so I could learn how to:
 
 ## Status
 
-This reposotory is a work in progress.
+This repository is a work in progress.
